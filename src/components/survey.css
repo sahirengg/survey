@@ -1,0 +1,14 @@
+.surDrop {
+    width: 223px;
+        font-size: 16px;
+         height: 42px;
+         /* padding: 20px 0 500px 20; */
+         margin: 20px 0 30px 500px;
+}
+
+.ownCss{
+    width: 190px;
+}
+.add {
+    float: right;
+}
